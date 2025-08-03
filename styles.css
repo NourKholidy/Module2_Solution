@@ -2,9 +2,9 @@ body {
   color: black;
 }
 section {
-  background-color: #ffe2c281
-  width 33%
-  height 100px
-  float left
-  border 1px black
+  background-color: #ffe2c2;
+  width: 33%;
+  height: 100px;
+  float: left;
+  border: 1px black solid;
 }
