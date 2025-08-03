@@ -8,3 +8,14 @@ section {
   float: left;
   border: 1px solid black;
 }
+#section1 {
+  box-align: left; 
+}
+
+#section2 {
+  box-align: left; 
+}
+
+#section3 {
+  box-align: right; 
+}
