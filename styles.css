@@ -23,7 +23,5 @@ h2 {
   position: absolute;
   right: 0px;
   top: 0px;
-}
-p {
-  clear: right;
+  clear: left;
 }
