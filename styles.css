@@ -17,6 +17,7 @@ section {
 }
 
 h2 {
+  padding: 1px;
   background-color: black;
   color: white;
   position: absolute;
@@ -25,5 +26,4 @@ h2 {
 }
 p {
   clear: right;
-
 }
