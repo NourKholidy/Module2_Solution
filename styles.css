@@ -7,15 +7,14 @@ section {
   height: 100px;
   float: left;
   border: 1px solid black;
-}
-#section1 {
-  box-align: left; 
-}
-
-#section2 {
-  box-align: left; 
+  margin: 2px;
+  position: relative;
 }
 
-#section3 {
-  box-align: right; 
+h2 {
+  background-color: black;
+  color: white;
+  position: absolute;
+  right: 0px;
+  top: 0px;
 }
