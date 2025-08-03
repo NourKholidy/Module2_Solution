@@ -23,3 +23,7 @@ h2 {
   right: 0px;
   top: 0px;
 }
+p {
+  clear: right;
+
+}
